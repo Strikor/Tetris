@@ -1,0 +1,20 @@
+U:\VB\Tetris\Tetris\Tetris\bin\Debug\Tetris.exe.config
+U:\VB\Tetris\Tetris\Tetris\bin\Debug\Tetris.exe
+U:\VB\Tetris\Tetris\Tetris\bin\Debug\Tetris.pdb
+U:\VB\Tetris\Tetris\Tetris\bin\Debug\Tetris.xml
+U:\VB\Tetris\Tetris\Tetris\obj\Debug\Tetris.Form1.resources
+U:\VB\Tetris\Tetris\Tetris\obj\Debug\Tetris.Resources.resources
+U:\VB\Tetris\Tetris\Tetris\obj\Debug\Tetris.vbproj.GenerateResource.Cache
+U:\VB\Tetris\Tetris\Tetris\obj\Debug\Tetris.exe
+U:\VB\Tetris\Tetris\Tetris\obj\Debug\Tetris.xml
+U:\VB\Tetris\Tetris\Tetris\obj\Debug\Tetris.pdb
+C:\Users\xstri\Desktop\Graham Tetris\Tetris\Tetris\bin\Debug\Tetris.exe.config
+C:\Users\xstri\Desktop\Graham Tetris\Tetris\Tetris\obj\Debug\Tetris.exe
+C:\Users\xstri\Desktop\Graham Tetris\Tetris\Tetris\obj\Debug\Tetris.xml
+C:\Users\xstri\Desktop\Graham Tetris\Tetris\Tetris\obj\Debug\Tetris.pdb
+C:\Users\xstri\Desktop\Graham Tetris\Tetris\Tetris\bin\Debug\Tetris.exe
+C:\Users\xstri\Desktop\Graham Tetris\Tetris\Tetris\bin\Debug\Tetris.pdb
+C:\Users\xstri\Desktop\Graham Tetris\Tetris\Tetris\bin\Debug\Tetris.xml
+C:\Users\xstri\Desktop\Graham Tetris\Tetris\Tetris\obj\Debug\Tetris.Form1.resources
+C:\Users\xstri\Desktop\Graham Tetris\Tetris\Tetris\obj\Debug\Tetris.Resources.resources
+C:\Users\xstri\Desktop\Graham Tetris\Tetris\Tetris\obj\Debug\Tetris.vbproj.GenerateResource.Cache
